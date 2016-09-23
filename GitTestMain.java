@@ -1,5 +1,6 @@
 //For command line git tutorial
-//Local repository modification
+//First:GitHub modification
+//Second: Local repository modification
 public class GitTestMain {
 	public static void main(String[] args) {
 		System.out.println("Git World");
